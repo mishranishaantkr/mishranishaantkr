@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Nishant Kumar Mishra]
+# 👋 Hi, I'm Nishant Kumar Mishra
 
 ### 📊 Aspiring Data Analyst
 
